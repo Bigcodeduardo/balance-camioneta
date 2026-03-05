@@ -1,0 +1,71 @@
+{
+    "gastos": [
+        {
+            "valor": 25000,
+            "tipo": "Gasolina",
+            "fecha": "2026-03-05 12:11:33"
+        },
+        {
+            "valor": 50000,
+            "tipo": "Gasolina",
+            "fecha": "2026-03-05 12:12:27"
+        },
+        {
+            "valor": 70000,
+            "tipo": "Peajes",
+            "fecha": "2026-03-05 12:13:03"
+        },
+        {
+            "valor": 100000,
+            "tipo": "Gasolina",
+            "fecha": "2026-03-05 12:13:21"
+        },
+        {
+            "valor": 20000,
+            "tipo": "Gasolina",
+            "fecha": "2026-03-05 12:20:14"
+        },
+        {
+            "valor": 24000,
+            "tipo": "Peajes",
+            "fecha": "2026-03-05 12:20:57"
+        }
+    ],
+    "acarreos": [
+        {
+            "destino": "tunja",
+            "km": 5.0,
+            "valor_sugerido": 25000,
+            "valor_real": 25000,
+            "fecha": "2026-03-05 12:11:53"
+        },
+        {
+            "destino": "paipa",
+            "km": 40.0,
+            "valor_sugerido": 160000.0,
+            "valor_real": 160000,
+            "fecha": "2026-03-05 12:12:18"
+        },
+        {
+            "destino": "bogota",
+            "km": 140.0,
+            "valor_sugerido": 490000.0,
+            "valor_real": 450000,
+            "fecha": "2026-03-05 12:13:03"
+        },
+        {
+            "destino": "tunja",
+            "km": 6.0,
+            "valor_sugerido": 24000.0,
+            "valor_real": 25000,
+            "fecha": "2026-03-05 12:20:38"
+        },
+        {
+            "destino": "paipa",
+            "km": 40.0,
+            "valor_sugerido": 184000.0,
+            "valor_real": 160000,
+            "fecha": "2026-03-05 12:21:01"
+        }
+    ]
+}
