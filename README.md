@@ -26,8 +26,22 @@ Este programa permite calcular la rentabilidad de una camioneta dedicada a traba
 
 - Python 3
 
+## Cómo usar el programa
+
+1. Descargar el repositorio
+2. Tener Python 3 instalado en el computador
+3. Ejecutar el archivo principal
+
+Ejemplo en la terminal:
+
+python APK.py
+
+El programa se ejecutará en la consola y permitirá ingresar datos para calcular ingresos, gastos y ganancias de la camioneta.
+
 ## Objetivo del proyecto
 
 Practicar programación en Python y desarrollar herramientas útiles para el control financiero de trabajos de transporte y acarreos.
 
 Este proyecto fue creado como parte del proceso de aprendizaje en programación.
+
+Update README with usage instructions
