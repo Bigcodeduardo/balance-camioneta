@@ -22,8 +22,6 @@ Este programa permite calcular la rentabilidad de una camioneta dedicada a traba
 ## Archivos del proyecto
 
 - *balance_camioneta.py* → primera versión del programa
-- *camioneta_color.py* → versión con intento de interfaz en color
-- *APK.py* → versión con interfaz en color
 - balance_camioneta2.0.py → ultima version mejorada
 
 ## Tecnologías utilizadas
