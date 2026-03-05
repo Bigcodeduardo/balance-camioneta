@@ -1,3 +1,6 @@
+
+
+
 # Balance de Camioneta 🚚
 
 Aplicación desarrollada en Python para calcular el balance financiero de una camioneta de acarreos.
@@ -20,7 +23,8 @@ Este programa permite calcular la rentabilidad de una camioneta dedicada a traba
 
 - *balance_camioneta.py* → primera versión del programa
 - *camioneta_color.py* → versión con intento de interfaz en color
-- *APK.py* → versión final con interfaz en color
+- *APK.py* → versión con interfaz en color
+- balance_camioneta2.0.py → ultima version mejorada
 
 ## Tecnologías utilizadas
 
@@ -34,7 +38,7 @@ Este programa permite calcular la rentabilidad de una camioneta dedicada a traba
 
 Ejemplo en la terminal:
 
-python APK.py
+balance_camioneta2.0.py
 
 El programa se ejecutará en la consola y permitirá ingresar datos para calcular ingresos, gastos y ganancias de la camioneta.
 
@@ -45,4 +49,3 @@ Update README with usage instructions
 Practicar programación en Python y desarrollar herramientas útiles para el control financiero de trabajos de transporte y acarreos.
 
 Este proyecto fue creado como parte del proceso de aprendizaje en programación.
-
