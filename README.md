@@ -38,10 +38,11 @@ python APK.py
 
 El programa se ejecutará en la consola y permitirá ingresar datos para calcular ingresos, gastos y ganancias de la camioneta.
 
+Update README with usage instructions
+
 ## Objetivo del proyecto
 
 Practicar programación en Python y desarrollar herramientas útiles para el control financiero de trabajos de transporte y acarreos.
 
 Este proyecto fue creado como parte del proceso de aprendizaje en programación.
 
-Update README with usage instructions
